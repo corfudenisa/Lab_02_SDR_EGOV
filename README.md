@@ -1,6 +1,5 @@
-# Lab_02_SDR_EGOV
+# Laboratorul 2 - Sistem de recomandare cu Recombee (înregistrarea proprietăților)
 
-Laboratorul 2 - Sistem de recomandare cu Recombee (înregistrarea proprietăților)
 
 ## Dataset-ul ales
 
